@@ -15,7 +15,6 @@ Computer Science student at **Virginia Tech**, expected to graduate **May 2028**
 - 🎓 **B.S. in Computer Science** (Expected May 2028) @ Virginia Tech
 - ☁️ **Software Engineering Intern @ Google Developer Program** (May 2026 – Aug 2026) — GCP ETL pipelines, BigQuery, Gemini multimodal AI, K-Means clustering, vector search
 - 💻 **Software Engineering Intern @ Virginia Tech** (Mar 2026 – May 2026) — Full-stack social media analytics platform, CRUD data pipelines, interactive GUI
-- 🏈 **Coach @ Virginia Beach Police Department Youth Football Camp** (Jul 2026) — Coached 100+ youth athletes
 - 🛠️ Building full-stack, data-driven side projects to sharpen backend, ML, and systems design skills
 
 ---
@@ -118,7 +117,7 @@ Computer Science student at **Virginia Tech**, expected to graduate **May 2028**
 
 ## 📈 Key Achievements
 
-- 🏈 Coached **100+ youth athletes** through combine/position-specific drills
+
 - 🔌 Designed a RESTful API with **15+ endpoints** for the Photocell platform
 - ☁️ Built ETL pipelines on GCP with BigQuery to clean and feature-engineer real estate datasets
 - 🧩 Engineered a custom generic Linked Stack data structure from scratch in Java
